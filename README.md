@@ -7,6 +7,6 @@
 ![vault flow](.img/vault-flow.jpg)
 
 # APIs
-- [unue](unue/README.md) - Dados altamente sensíveis
-- [due](due/README.md) - Dados sensíveis
-- [triono](triono/README.md) - Dados corriqueiro
+- [unue](unue/README.md) - Acesso para os dados altamente sensíveis
+- [due](due/README.md) - Acesso para os dados sensíveis
+- [triono](triono/README.md) - Acesso para os dados corriqueiro
