@@ -18,7 +18,7 @@ Documentos:
 | description |
 | value |
 
-# Tecnologias
+### Tecnologias
 - Kotlin (Java 11)
 - Gradle
 - Ktor

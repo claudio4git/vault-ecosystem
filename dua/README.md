@@ -1,7 +1,7 @@
 # Projeto
 > API responsável por acessar a base `due` e gerenciar seus dados.
 
-> Base `dua`
+### Base `dua`
 - PostgreSQL (DynamoDB);
 - Todos os dados armazenados nesta base de dados é criptografado com xxx
 e só poder ser acessado pela API `dua`;
@@ -22,7 +22,7 @@ Tabelas:
 | description |
 | value |
 
-# Tecnologias
+### Tecnologias
 - Kotlin (Java 11)
 - Gradle
 - Spring boot coroutines
