@@ -1,7 +1,7 @@
 # Projeto
 > API responsável por acessar a base `triono` e gerenciar seus dados.
 
-### Base `triono`
+# Base `triono`
 - MongoDB
 
 Documentos:
@@ -18,7 +18,7 @@ Documentos:
 | description |
 | value |
 
-### Tecnologias
+# Tecnologias
 - Kotlin (Java 11)
 - Gradle
 - Ktor
